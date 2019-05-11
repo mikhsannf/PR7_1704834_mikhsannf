@@ -7,7 +7,7 @@
   <body>
     <h1 align="center">LEFT JOIN</h1>
     <hr>
-  <div style="display:inline-block; margin-left:800px;">
+  <div style="display:inline-block; margin-left:1000px;">
       <a><?php echo anchor('Mahasiswa/index','Left Join'); ?></a>
       <a><?php echo anchor('Mahasiswa/index1','Right Join'); ?></a>
       <a><?php echo anchor('Mahasiswa/index2','Inner Join'); ?></a>
